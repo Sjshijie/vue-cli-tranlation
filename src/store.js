@@ -5,7 +5,7 @@ Vue.use(Vuex);
 
 const state = {
   count:10,
-  hehe:'你好啊',
+  hehe:"你sdfdsf",
   todos: [
     { id: 1, text: '...', done: true },
     { id: 2, text: '...', done: false }
